@@ -1,2 +1,2 @@
-# House-Prices
+# Houses-Prices
 Prediction prices of houses.
